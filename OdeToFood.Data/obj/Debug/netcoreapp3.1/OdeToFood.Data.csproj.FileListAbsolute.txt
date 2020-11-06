@@ -1,0 +1,12 @@
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.deps.json
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.dll
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.pdb
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Core.dll
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Core.pdb
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfo.cs
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CopyComplete
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.dll
+/Users/diego/Documents/Workspaces/NetCore/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.pdb
